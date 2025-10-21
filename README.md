@@ -6,6 +6,9 @@ An intelligent anime recommendation system that uses AI to suggest personalized 
 - ChromaDB for efficient similarity matching
 - Streamlit for an intuitive user interface
 
+<img width="1914" height="1034" alt="Screenshot 2025-10-21 233003" src="https://github.com/user-attachments/assets/6f24ae00-72b3-480d-a354-8cf885110c99" />
+
+
 ## Local Deployment (Quick Start)
 
 1. **Clone the Repository**
