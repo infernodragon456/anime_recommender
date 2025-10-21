@@ -20,8 +20,8 @@ def get_prompt():
         {context}
 
         User's question:
-        {question}
+        {input}
 
         Your well-structured response:
         """
-    , input_variables=["context", "question"])
+    , input_variables=["context", "input"])

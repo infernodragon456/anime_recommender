@@ -3,3 +3,7 @@ venv/
 __pycache__/
 
 anime_recommender.egg-info/
+
+logs/
+*.log
+logs/log_2025-10-21.log

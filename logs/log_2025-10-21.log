@@ -39,3 +39,59 @@
 2025-10-21 18:30:32,762 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
 2025-10-21 18:32:53,492 - INFO - AnimeRecommenderPipeline built successfully with processed_csv: data/anime_processed.csv
 2025-10-21 18:32:54,542 - INFO - AnimeRecommenderPipeline initialized successfully
+2025-10-21 18:49:20,699 - INFO - Initializing AnimeRecommenderPipeline
+2025-10-21 18:49:20,702 - INFO - Use pytorch device_name: cpu
+2025-10-21 18:49:20,702 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-21 18:49:25,785 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-21 18:49:27,148 - INFO - AnimeRecommenderPipeline initialized successfully
+2025-10-21 18:50:51,942 - INFO - Recommending anime for question: suggest me some good lighthearted anime in a school settings, comedy preferred
+2025-10-21 18:50:52,075 - ERROR - Error recommending anime: "Input to PromptTemplate is missing variables {'question'}.  Expected: ['context', 'question'] Received: ['input', 'context']\nNote: if you intended {question} to be part of the string and not a variable, please escape it with double curly braces like: '{{question}}'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT "
+2025-10-21 18:55:46,809 - INFO - Initializing AnimeRecommenderPipeline
+2025-10-21 18:55:46,812 - INFO - Use pytorch device_name: cpu
+2025-10-21 18:55:46,812 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-21 18:55:51,436 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-21 18:55:52,998 - INFO - AnimeRecommenderPipeline initialized successfully
+2025-10-21 18:56:12,482 - INFO - Recommending anime for question: suggest me some good lighthearted anime in a school setting, comedy preferred
+2025-10-21 18:56:12,487 - ERROR - Error recommending anime: 'input'
+2025-10-21 18:58:45,723 - INFO - Initializing AnimeRecommenderPipeline
+2025-10-21 18:58:45,726 - INFO - Use pytorch device_name: cpu
+2025-10-21 18:58:45,727 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-21 18:58:51,156 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-21 18:58:52,663 - INFO - AnimeRecommenderPipeline initialized successfully
+2025-10-21 18:59:05,742 - INFO - Recommending anime for question: suggest me some good lighthearted anime in a school setting, comedy preferred
+2025-10-21 18:59:08,160 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-21 18:59:08,179 - INFO - Recommendation: Based on your preference for lighthearted anime in a school setting with a focus on comedy, I've curated a list of three recommendations for you:
+
+1. **Poputepipikku**
+   - Plot Summary: Poputepipikku is an absurdist comedy that follows the lives of two high school girls, Popuko and Pipimi, as they navigate school life and throw genres against the wall to see what sticks. With a mix of parody, drama, action, and crudeness, this anime is a wild ride.
+   - Why it matches your preferences: Poputepipikku is a lighthearted anime that takes place in a school setting, making it a perfect fit for your request. Its focus on comedy, particularly absurdist comedy, ensures that you'll be entertained with its surreal and humorous take on high school life.
+
+2. **School Rumble**
+   - Plot Summary: School Rumble follows the lives of Tenma Tsukamoto and Kenji Harima as they navigate high school romance. With a focus on relatable situations and misunderstandings, this anime is a heartwarming and hilarious take on high school life.
+   - Why it matches your preferences: School Rumble is a lighthearted anime that takes place in a school setting, making it a great fit for your request. Its focus on comedy and romance ensures that you'll be entertained with its portrayal of high school life and relationships.
+
+3. **Toradora!**
+   - Plot Summary: Toradora! follows the lives of Ryuuji Takasu and Taiga Aisaka as they navigate high school relationships and misunderstandings. With a focus on comedy and romance, this anime is a heartwarming and hilarious take on high school life.
+   - Why it matches your preferences: Toradora! is a lighthearted anime that takes place in a school setting, making it a great fit for your request. Its focus on comedy and romance ensures that you'll be entertained with its portrayal of high school life and relationships.
+
+All three anime recommendations are lighthearted, take place in a school setting, and focus on comedy, making them perfect fits for your preferences. Enjoy your watch!
+2025-10-21 18:59:58,692 - INFO - Recommending anime for question: get me anime similar to Bleach
+2025-10-21 18:59:59,712 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-21 18:59:59,714 - INFO - Recommendation: Based on your interest in Bleach, I've curated a list of three anime recommendations that share similar themes, genres, and elements. Here are my suggestions:
+
+**1. Blue Seed**
+- **Title:** Blue Seed
+- **Plot Summary:** Momiji is an average girl who discovers she's the descendant of the great Kushinada family, tasked with stopping demonic plant-like monsters threatening Japan. Alongside the TAC and a potential love interest, Kusanagi, she must confront her destiny.
+- **Why it matches your preferences:** Like Bleach, Blue Seed features a high school protagonist who becomes embroiled in a supernatural world, fighting against powerful enemies. Both anime also have a strong focus on action, adventure, and fantasy elements.
+
+**2. Naruto**
+- **Title:** Naruto
+- **Plot Summary:** Naruto Uzumaki is a young ninja who dreams of becoming the leader of his village. However, he's ostracized by his peers due to the Nine-Tails beast sealed within him. As Naruto embarks on a journey to prove himself, he discovers the true nature of his powers and the secrets of his village.
+- **Why it matches your preferences:** Naruto shares Bleach's themes of self-discovery, friendship, and the struggle against powerful enemies. Both anime also feature a strong focus on action, adventure, and fantasy elements, with a mix of comedy and drama.
+
+**3. Soul Eater**
+- **Title:** Soul Eater
+- **Plot Summary:** Maka Albarn is a young meister who attends a school for meisters and their partners, known as meister-soul pairs. As Maka and her partner, Soul, navigate the complexities of their relationship and the challenges of their training, they must confront the dark forces threatening their world.
+- **Why it matches your preferences:** Soul Eater, like Bleach, features a supernatural world with a focus on action, adventure, and fantasy elements. Both anime also explore themes of friendship, self-discovery, and the struggle against powerful enemies, with a mix of comedy and drama.
+
+These recommendations should provide you with a similar viewing experience to Bleach, with a mix of action, adventure, and fantasy elements, as well as themes of self-discovery and friendship. Enjoy!
