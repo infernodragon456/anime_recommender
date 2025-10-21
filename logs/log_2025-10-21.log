@@ -1,0 +1,41 @@
+2025-10-21 18:26:16,246 - INFO - Initializing AnimeRecommenderPipeline
+2025-10-21 18:26:16,247 - INFO - Building AnimeRecommenderPipeline with source_csv: data/anime_data.csv and processed_csv: data/anime_processed.csv
+2025-10-21 18:26:16,608 - ERROR - Error initializing AnimeRecommenderPipeline: can only concatenate str (not "float") to str
+2025-10-21 18:30:11,087 - INFO - Initializing AnimeRecommenderPipeline
+2025-10-21 18:30:11,088 - INFO - Building AnimeRecommenderPipeline with source_csv: data/anime_data.csv and processed_csv: data/anime_processed.csv
+2025-10-21 18:30:11,508 - INFO - Use pytorch device_name: cpu
+2025-10-21 18:30:11,508 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-10-21 18:30:15,304 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-10-21 18:30:31,426 - WARNING - Created a chunk of size 1149, which is longer than the specified 1000
+2025-10-21 18:30:31,428 - WARNING - Created a chunk of size 1311, which is longer than the specified 1000
+2025-10-21 18:30:31,429 - WARNING - Created a chunk of size 1226, which is longer than the specified 1000
+2025-10-21 18:30:31,430 - WARNING - Created a chunk of size 1050, which is longer than the specified 1000
+2025-10-21 18:30:31,431 - WARNING - Created a chunk of size 1004, which is longer than the specified 1000
+2025-10-21 18:30:31,432 - WARNING - Created a chunk of size 1494, which is longer than the specified 1000
+2025-10-21 18:30:31,433 - WARNING - Created a chunk of size 1022, which is longer than the specified 1000
+2025-10-21 18:30:31,434 - WARNING - Created a chunk of size 1199, which is longer than the specified 1000
+2025-10-21 18:30:31,434 - WARNING - Created a chunk of size 1145, which is longer than the specified 1000
+2025-10-21 18:30:31,437 - WARNING - Created a chunk of size 1218, which is longer than the specified 1000
+2025-10-21 18:30:31,439 - WARNING - Created a chunk of size 1531, which is longer than the specified 1000
+2025-10-21 18:30:31,440 - WARNING - Created a chunk of size 1046, which is longer than the specified 1000
+2025-10-21 18:30:31,445 - WARNING - Created a chunk of size 1028, which is longer than the specified 1000
+2025-10-21 18:30:31,446 - WARNING - Created a chunk of size 1487, which is longer than the specified 1000
+2025-10-21 18:30:31,447 - WARNING - Created a chunk of size 1007, which is longer than the specified 1000
+2025-10-21 18:30:31,449 - WARNING - Created a chunk of size 1031, which is longer than the specified 1000
+2025-10-21 18:30:31,449 - WARNING - Created a chunk of size 1283, which is longer than the specified 1000
+2025-10-21 18:30:31,449 - WARNING - Created a chunk of size 1198, which is longer than the specified 1000
+2025-10-21 18:30:31,450 - WARNING - Created a chunk of size 1104, which is longer than the specified 1000
+2025-10-21 18:30:31,451 - WARNING - Created a chunk of size 1084, which is longer than the specified 1000
+2025-10-21 18:30:31,451 - WARNING - Created a chunk of size 1321, which is longer than the specified 1000
+2025-10-21 18:30:31,452 - WARNING - Created a chunk of size 1034, which is longer than the specified 1000
+2025-10-21 18:30:31,453 - WARNING - Created a chunk of size 1107, which is longer than the specified 1000
+2025-10-21 18:30:31,454 - WARNING - Created a chunk of size 1356, which is longer than the specified 1000
+2025-10-21 18:30:31,457 - WARNING - Created a chunk of size 1046, which is longer than the specified 1000
+2025-10-21 18:30:31,458 - WARNING - Created a chunk of size 1013, which is longer than the specified 1000
+2025-10-21 18:30:31,459 - WARNING - Created a chunk of size 1048, which is longer than the specified 1000
+2025-10-21 18:30:31,460 - WARNING - Created a chunk of size 1041, which is longer than the specified 1000
+2025-10-21 18:30:31,460 - WARNING - Created a chunk of size 1001, which is longer than the specified 1000
+2025-10-21 18:30:31,461 - WARNING - Created a chunk of size 1037, which is longer than the specified 1000
+2025-10-21 18:30:32,762 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-10-21 18:32:53,492 - INFO - AnimeRecommenderPipeline built successfully with processed_csv: data/anime_processed.csv
+2025-10-21 18:32:54,542 - INFO - AnimeRecommenderPipeline initialized successfully
